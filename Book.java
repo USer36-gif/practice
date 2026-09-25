@@ -4,5 +4,5 @@ public class Book extends TangibleAsset{
 		super(name,price,color);
 		this.isbn=isbt;
 	}
-     public String getIsbn(){return this.isbt;}
+     public String getIsbt(){return this.isbt;}
 }
